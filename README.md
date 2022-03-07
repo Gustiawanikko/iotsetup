@@ -1,5 +1,4 @@
-# iotsetup
-# iotset
+# ioT Testing
 
 mkdir -p /home/pi/ioT/
 
